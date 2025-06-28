@@ -4,3 +4,29 @@ cd C:\Users\Gajendra\eclipse-workspace\Demo
 mvn clean test
 
 https://github.com/theUnlocker/Demo.git
+C:\Program Files\apache-maven-3.9.10\bin
+
+cd C:\Users\Gajendra\eclipse-workspace\Demo
+mvn clean test
+
+https://github.com/theUnlocker/Demo.gitC:\Program Files\apache-maven-3.9.10\bin
+
+cd C:\Users\Gajendra\eclipse-workspace\Demo
+mvn clean test
+
+https://github.com/theUnlocker/Demo.gitC:\Program Files\apache-maven-3.9.10\bin
+
+cd C:\Users\Gajendra\eclipse-workspace\Demo
+mvn clean test
+
+https://github.com/theUnlocker/Demo.gitC:\Program Files\apache-maven-3.9.10\bin
+
+cd C:\Users\Gajendra\eclipse-workspace\Demo
+mvn clean test
+
+https://github.com/theUnlocker/Demo.gitC:\Program Files\apache-maven-3.9.10\bin
+
+cd C:\Users\Gajendra\eclipse-workspace\Demo
+mvn clean test
+
+https://github.com/theUnlocker/Demo.git
