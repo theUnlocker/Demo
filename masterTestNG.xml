@@ -1,0 +1,23 @@
+<suite name="Suite">
+	<groups>
+		<run>
+			<include name="Functional" />
+		   
+		</run>
+	</groups>
+	<listeners>
+		<listener class-name="utilities.ExtentReportManager" />
+	</listeners>
+
+	<test thread-count="5" name="Test">
+		<parameter name="browser" value="edge" />
+		<parameter name="os" value="Windows" />
+		<classes>
+			<class name="testCase.TC_01_AC_Creation" />
+			<class name="testCase.TC_02_LoginData_Test" />
+			<class name="testCase.TC_03_ShopingCart_Test" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->

@@ -1,0 +1,1508 @@
+20:42:58.069 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:18)oggger - Clicked on My Account
+20:42:58.494 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:20)oggger - Clicked on login button
+20:44:06.845 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:18)oggger - Clicked on My Account
+20:44:07.359 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:20)oggger - Clicked on login button
+20:44:07.463 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:22)oggger - Entered email
+20:44:07.532 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:24)oggger - Entered password
+20:44:07.593 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:26)oggger - Clicked login button
+20:45:56.261 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:18)oggger - Clicked on My Account
+20:45:56.505 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:20)oggger - Clicked on login button
+20:45:56.618 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:22)oggger - Entered email
+20:45:56.706 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:24)oggger - Entered password
+20:45:56.988 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:26)oggger - Clicked login button
+20:45:57.440 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:28)oggger - Clicked tablet button
+20:45:58.302 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked samsung tab button
+20:45:58.400 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked add to cart button
+20:47:39.463 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+20:47:39.899 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+20:48:35.926 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+20:48:36.052 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+20:48:36.359 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+20:48:36.485 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+20:48:36.560 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+20:48:36.620 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+20:49:18.446 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+20:49:18.543 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+20:49:18.799 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+20:49:18.896 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+20:49:18.978 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+20:49:19.346 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+20:49:25.302 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+20:49:26.468 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+20:49:26.562 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+20:49:26.777 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+20:50:27.854 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+20:50:27.986 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+20:50:28.305 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+20:50:28.415 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+20:50:28.485 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+20:50:28.736 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+20:50:34.160 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+20:50:35.428 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+20:50:35.499 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+20:50:35.714 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+21:02:54.703 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+21:02:54.819 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+21:02:55.467 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+21:02:55.546 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+21:02:55.614 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+21:02:55.680 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+21:02:55.743 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+21:02:55.864 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+21:02:55.920 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+21:02:55.980 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+21:02:56.525 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+21:02:56.581 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:51)oggger - Tested successfully!
+21:03:06.450 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: pavanoltraining@gmail.com, expected result: Valid
+21:03:07.879 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:03:17.921 [main] ERROR testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:66)oggger - Exception in test: 
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.83)
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [5ce4bc5c25df77549e0c48ce426a290d, clickElement {id=f.728DDED5B43FB70E8C1F2FBEF5BB62F7.d.97AF30420CE9273154513B6597C1CBD8.e.83}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 137.0.3296.83, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53707}, msedge: {msedgedriverVersion: 137.0.3296.93 (114b4a913acd..., userDataDir: C:\Users\gajendra.gautam\Ap...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53707/devtoo..., se:cdpVersion: 137.0.3296.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (5ce4bc5c25df77549e0c48ce426a290d)] -> xpath: (//a[normalize-space()='Login'])[1]]
+Session ID: 5ce4bc5c25df77549e0c48ce426a290d
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.33.0.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.33.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy29.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickMyAcLoginButton(HomePage.java:54) ~[test-classes/:?]
+	at testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:25) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+21:03:17.940 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: lakshmi@yahoo.com, expected result: Invalid
+21:03:18.029 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:03:18.411 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:03:18.508 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:03:18.569 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:03:18.635 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:03:28.670 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laksh@yahoo.com, expected result: Valid
+21:03:28.736 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:03:29.062 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:03:29.152 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:03:29.222 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:03:29.299 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:03:39.330 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laks@yahoo.com, expected result: Invalid
+21:03:39.401 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:03:39.688 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:03:39.758 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:03:39.810 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:03:40.015 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:03:50.049 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: abc123@gmail.com/, expected result: Invalid
+21:03:50.121 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:03:50.426 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:03:50.529 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:03:50.667 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:03:50.963 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:04:01.022 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: admin.demo@yahoo.com, expected result: Valid
+21:04:01.109 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:04:01.406 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:04:01.477 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:04:01.536 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:04:01.592 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:04:02.300 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+21:04:02.301 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+21:04:12.518 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+21:04:12.637 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+21:04:12.916 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+21:04:13.044 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+21:04:13.148 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+21:04:13.413 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+21:04:18.760 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+21:04:19.545 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+21:04:19.659 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+21:04:19.808 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+21:16:47.176 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+21:16:47.396 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+21:16:48.054 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+21:16:48.343 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+21:16:48.532 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+21:16:48.948 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+21:16:55.074 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+21:16:56.144 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+21:16:56.355 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+21:16:56.762 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+21:17:42.901 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+21:17:43.214 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+21:17:45.554 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+21:17:45.786 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+21:17:45.967 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+21:17:46.180 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+21:17:46.368 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+21:17:46.758 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+21:17:46.961 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+21:17:47.175 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+21:17:47.953 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+21:17:48.082 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:51)oggger - Tested successfully!
+21:18:54.843 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+21:18:55.411 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+21:19:01.715 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+21:19:02.459 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+21:19:02.728 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+21:19:03.150 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+21:19:03.506 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+21:19:04.132 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+21:19:04.471 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+21:19:04.788 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+21:19:05.816 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+21:19:06.089 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:51)oggger - Tested successfully!
+21:19:28.957 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: pavanoltraining@gmail.com, expected result: Valid
+21:19:29.443 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:19:31.622 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:19:32.015 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:19:32.220 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:19:32.880 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:19:33.741 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+21:19:33.741 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+21:19:33.755 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: lakshmi@yahoo.com, expected result: Invalid
+21:19:33.937 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:19:34.472 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:19:34.686 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:19:34.864 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:19:35.306 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:19:45.395 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laksh@yahoo.com, expected result: Valid
+21:19:45.584 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:19:46.030 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:19:46.250 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:19:46.448 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:19:46.915 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:19:56.952 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laks@yahoo.com, expected result: Invalid
+21:19:57.142 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:19:57.755 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:19:57.964 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:19:58.135 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:19:58.690 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:20:08.778 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: abc123@gmail.com/, expected result: Invalid
+21:20:09.032 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:20:09.554 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:20:09.775 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:20:09.970 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:20:10.373 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:20:20.434 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: admin.demo@yahoo.com, expected result: Valid
+21:20:20.636 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:20:21.191 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:20:21.423 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:20:21.605 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:20:22.180 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:20:22.974 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+21:20:22.974 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+21:20:34.664 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+21:20:34.952 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+21:20:35.511 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+21:20:35.893 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+21:20:36.096 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+21:20:36.552 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+21:20:42.296 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+21:20:44.021 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+21:20:44.223 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+21:20:44.602 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+21:26:03.173 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+21:26:03.492 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+21:26:04.166 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+21:26:04.449 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+21:26:04.624 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+21:26:05.136 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+21:26:10.882 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+21:26:12.081 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+21:26:12.285 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+21:26:12.528 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+21:26:49.836 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+21:26:54.005 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+21:26:55.977 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+21:26:56.229 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+21:26:56.417 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+21:26:56.788 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+21:26:57.128 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+21:26:57.638 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+21:26:57.844 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+21:26:58.023 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+21:26:58.706 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+21:26:58.886 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:51)oggger - Tested successfully!
+21:36:38.288 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+21:36:38.630 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+21:36:39.279 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+21:36:39.619 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+21:36:39.805 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+21:36:40.469 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+21:36:47.022 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+21:36:51.120 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+21:36:51.319 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+21:36:51.549 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+21:49:30.526 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+21:49:30.661 [main] ERROR testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:54)oggger - Test has failed
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.33.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.33.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy28.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickMyAccount(HomePage.java:34) ~[test-classes/:?]
+	at testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:17) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+21:49:30.758 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+21:53:52.016 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+21:53:52.818 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+21:54:08.006 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+21:54:08.371 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+21:54:09.382 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+21:54:09.736 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+21:54:10.065 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+21:54:10.721 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+21:54:11.029 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+21:54:11.544 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+21:54:11.759 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+21:54:11.984 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+21:54:12.583 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+21:54:12.757 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:51)oggger - Tested successfully!
+21:54:30.139 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: pavanoltraining@gmail.com, expected result: Valid
+21:54:31.161 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:54:32.204 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:54:32.617 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:54:33.101 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:54:34.022 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:54:35.688 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+21:54:35.689 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+21:54:35.699 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: lakshmi@yahoo.com, expected result: Invalid
+21:54:36.222 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:54:36.968 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:54:37.284 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:54:37.474 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:54:37.945 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:54:48.038 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laksh@yahoo.com, expected result: Valid
+21:54:48.706 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:54:49.655 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:54:50.095 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:54:50.336 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:54:50.769 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:55:00.847 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laks@yahoo.com, expected result: Invalid
+21:55:01.138 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:55:01.897 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:55:02.153 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:55:02.385 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:55:03.086 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:55:13.117 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: abc123@gmail.com/, expected result: Invalid
+21:55:13.332 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:55:13.827 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:55:14.067 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:55:14.248 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:55:14.718 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:55:24.757 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: admin.demo@yahoo.com, expected result: Valid
+21:55:24.985 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+21:55:25.556 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+21:55:25.775 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+21:55:25.973 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+21:55:26.178 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+21:55:27.448 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+21:55:27.452 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+21:55:40.627 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+21:55:40.882 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+21:55:41.454 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+21:55:41.783 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+21:55:41.984 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+21:55:42.407 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+21:55:48.280 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+21:55:49.501 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+21:55:49.725 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+21:55:49.935 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+11:48:45.092 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+11:48:45.458 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+11:48:53.005 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+11:48:53.229 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+11:48:53.662 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+11:48:53.982 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+11:48:54.146 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+11:48:54.285 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+11:48:59.786 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+11:49:01.059 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+11:49:01.163 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+11:49:01.332 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+11:51:24.267 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+11:51:24.589 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+11:51:33.421 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+11:51:33.507 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+11:51:34.135 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+11:51:34.256 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+11:51:34.312 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+11:51:34.370 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+11:51:39.818 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+11:51:40.523 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+11:51:40.611 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+11:51:40.782 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+11:53:41.989 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+11:53:42.270 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+11:53:51.644 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+11:53:51.727 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+11:53:52.058 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+11:53:52.154 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+11:53:52.223 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+11:53:52.294 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+11:53:57.667 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+11:53:58.388 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+11:53:58.485 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+11:53:58.634 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+11:55:35.480 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+11:55:35.755 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+11:55:43.287 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+11:55:43.483 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+11:55:43.951 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+11:55:44.169 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+11:55:44.309 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+11:55:44.702 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+11:55:50.116 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+11:55:50.889 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+11:55:51.067 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+11:55:51.220 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+11:57:42.186 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+11:57:42.504 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+11:57:46.735 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+11:57:50.742 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+11:57:51.406 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+11:57:51.522 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+11:57:51.609 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+11:57:51.897 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+11:57:57.345 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+11:57:58.025 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+11:57:58.106 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+11:57:58.242 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+11:59:08.706 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+11:59:08.951 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+11:59:17.935 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+11:59:18.093 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+11:59:18.656 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+11:59:18.901 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+11:59:19.028 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+11:59:19.172 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+11:59:24.633 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+11:59:25.449 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+11:59:25.596 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+11:59:25.794 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+12:01:55.954 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+12:01:56.346 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+12:02:04.305 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+12:02:04.529 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+12:02:04.964 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+12:02:05.134 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+12:02:05.274 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+12:02:05.432 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+12:02:10.960 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+12:02:11.758 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+12:02:11.900 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+12:02:12.101 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+12:03:46.559 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+12:03:47.100 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+12:03:54.133 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+12:03:54.277 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+12:03:55.657 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+12:03:55.747 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+12:03:55.817 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+12:03:55.903 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+12:03:55.975 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+12:03:56.174 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+12:03:56.262 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+12:03:56.333 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+12:03:57.106 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+12:03:57.148 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:51)oggger - Tested successfully!
+12:04:08.365 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: pavanoltraining@gmail.com, expected result: Valid
+12:04:09.278 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+12:04:19.366 [main] ERROR testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:66)oggger - Exception in test: 
+org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.93)
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [083be3f5b65dacf426c3028113a3a64b, clickElement {id=f.5EADA3B19ED5C6C7A36606BA4A3E314E.d.C0281BD6881B52741EB0974F0C483BD3.e.32}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 137.0.3296.93, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61565}, msedge: {msedgedriverVersion: 137.0.3296.93 (114b4a913acd..., userDataDir: C:\Users\gajendra.gautam\Ap...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61565/devtoo..., se:cdpVersion: 137.0.3296.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (083be3f5b65dacf426c3028113a3a64b)] -> xpath: (//a[normalize-space()='Login'])[1]]
+Session ID: 083be3f5b65dacf426c3028113a3a64b
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76) ~[selenium-remote-driver-4.33.0.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51) ~[selenium-support-4.33.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickMyAcLoginButton(HomePage.java:54) ~[test-classes/:?]
+	at testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:25) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+12:04:19.577 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: lakshmi@yahoo.com, expected result: Invalid
+12:04:19.663 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+12:04:20.416 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+12:04:20.521 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+12:04:20.605 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+12:04:20.696 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+12:04:31.069 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laksh@yahoo.com, expected result: Valid
+12:04:31.140 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+12:04:31.867 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+12:04:31.946 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+12:04:32.014 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+12:04:32.238 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+12:04:42.459 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laks@yahoo.com, expected result: Invalid
+12:04:42.529 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+12:04:43.567 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+12:04:43.637 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+12:04:43.684 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+12:04:43.743 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+12:04:53.904 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: abc123@gmail.com/, expected result: Invalid
+12:04:53.974 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+12:04:54.813 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+12:04:54.882 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+12:04:54.940 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+12:04:54.996 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+12:05:05.669 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: admin.demo@yahoo.com, expected result: Valid
+12:05:05.742 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+12:05:06.548 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+12:05:06.624 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+12:05:06.674 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+12:05:07.014 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+12:05:07.419 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+12:05:07.421 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+12:05:13.868 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+12:05:13.960 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+12:05:14.284 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+12:05:14.383 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+12:05:14.461 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+12:05:14.519 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+12:05:20.875 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+12:05:21.552 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+12:05:21.637 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+12:05:21.763 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+18:03:28.102 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+18:03:28.661 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+18:03:42.040 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+18:03:42.352 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+18:03:43.325 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+18:03:43.525 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+18:03:43.694 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+18:03:43.909 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+18:03:44.135 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+18:03:44.501 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+18:03:44.700 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+18:03:44.906 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+18:03:45.638 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+18:03:45.766 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:51)oggger - Tested successfully!
+18:04:00.333 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: pavanoltraining@gmail.com, expected result: Valid
+18:04:00.946 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:04:01.926 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:04:02.300 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:04:02.667 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:04:03.349 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:04:04.104 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+18:04:04.112 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+18:04:04.138 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: lakshmi@yahoo.com, expected result: Invalid
+18:04:04.350 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:04:04.803 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:04:05.103 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:04:05.285 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:04:05.469 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:04:17.047 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laksh@yahoo.com, expected result: Valid
+18:04:17.228 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:04:18.066 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:04:18.261 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:04:18.420 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:04:18.760 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:04:29.073 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laks@yahoo.com, expected result: Invalid
+18:04:29.265 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:04:30.121 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:04:30.308 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:04:30.463 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:04:30.854 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:04:41.381 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: abc123@gmail.com/, expected result: Invalid
+18:04:41.530 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:04:42.427 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:04:42.613 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:04:42.783 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:04:42.947 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:04:53.396 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: admin.demo@yahoo.com, expected result: Valid
+18:04:53.558 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:04:54.379 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:04:54.576 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:04:54.741 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:04:55.237 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:04:55.994 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+18:04:55.997 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+18:05:07.009 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+18:05:07.387 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+18:05:07.849 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+18:05:08.097 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+18:05:08.286 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+18:05:08.687 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+18:05:14.251 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+18:05:15.207 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+18:05:15.431 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+18:05:15.596 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+18:13:01.680 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+18:13:02.231 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+18:13:12.637 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+18:13:13.133 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+18:13:13.855 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+18:13:14.068 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+18:13:14.253 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+18:13:14.473 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+18:13:14.670 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+18:13:15.085 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+18:13:15.263 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+18:13:15.444 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+18:13:16.055 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+18:13:16.243 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:51)oggger - Tested successfully!
+18:13:34.787 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: pavanoltraining@gmail.com, expected result: Valid
+18:13:35.200 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:13:36.155 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:13:36.547 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:13:36.744 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:13:37.255 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:13:37.994 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+18:13:37.994 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+18:13:38.009 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: lakshmi@yahoo.com, expected result: Invalid
+18:13:38.281 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:13:38.809 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:13:39.083 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:13:39.254 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:13:39.636 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:13:51.014 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laksh@yahoo.com, expected result: Valid
+18:13:51.221 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:13:51.732 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:13:51.987 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:13:52.261 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:13:52.640 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:14:03.951 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laks@yahoo.com, expected result: Invalid
+18:14:04.147 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:14:04.614 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:14:04.854 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:14:05.082 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:14:05.529 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:14:16.844 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: abc123@gmail.com/, expected result: Invalid
+18:14:17.055 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:14:17.564 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:14:17.910 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:14:18.182 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:14:18.584 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:14:29.949 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: admin.demo@yahoo.com, expected result: Valid
+18:14:30.136 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:14:30.608 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:14:30.821 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:14:30.992 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:14:31.160 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:14:32.282 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+18:14:32.282 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+18:14:43.341 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+18:14:43.747 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+18:14:44.268 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+18:14:44.569 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+18:14:44.773 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+18:14:45.224 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+18:14:50.905 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+18:14:51.658 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+18:14:51.834 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+18:14:52.042 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+18:47:01.146 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+18:47:01.714 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+18:48:41.213 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+18:48:41.801 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+18:48:54.317 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+18:48:54.630 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+18:48:55.407 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+18:48:55.622 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+18:48:55.809 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+18:48:56.039 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+18:48:56.248 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+18:48:56.634 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+18:48:56.819 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+18:48:57.009 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+18:48:57.629 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+18:48:57.822 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:51)oggger - Tested successfully!
+18:49:11.740 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: pavanoltraining@gmail.com, expected result: Valid
+18:49:12.226 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:49:13.078 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:49:13.423 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:49:13.686 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:49:14.319 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:49:15.171 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+18:49:15.171 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+18:49:15.190 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: lakshmi@yahoo.com, expected result: Invalid
+18:49:15.390 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:49:15.853 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:49:16.074 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:49:16.225 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:49:16.606 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:49:28.238 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laksh@yahoo.com, expected result: Valid
+18:49:28.561 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+18:49:29.446 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+18:49:29.685 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+18:49:30.021 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+18:49:30.472 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+18:50:05.860 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+18:50:06.426 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+18:50:19.004 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+18:50:19.363 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+18:50:20.390 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+18:50:20.617 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+18:50:20.804 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+18:50:21.039 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+18:50:21.239 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+18:50:21.751 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+18:50:21.982 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+18:50:22.194 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+18:50:22.777 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+18:50:22.917 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:51)oggger - Tested successfully!
+18:50:38.377 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+18:50:39.074 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+18:50:40.009 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+18:50:40.561 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+18:50:40.838 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+18:50:41.406 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+18:50:47.671 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+18:50:48.763 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+18:50:48.968 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+18:50:49.139 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+18:53:16.777 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+18:53:17.400 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+18:53:29.185 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+18:53:29.588 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+18:53:30.353 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+18:53:30.563 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+18:53:30.732 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+18:53:30.959 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+18:53:31.145 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+18:53:31.528 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+18:53:31.712 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+18:53:31.896 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+18:53:32.464 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+18:53:32.673 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:51)oggger - Tested successfully!
+18:53:48.012 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+18:53:48.328 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+18:53:48.857 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+18:53:49.543 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+18:53:49.813 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+18:53:50.332 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+18:53:56.778 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+18:53:57.984 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+18:53:58.227 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+18:53:58.531 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+18:57:15.145 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+18:57:15.791 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+18:57:30.879 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+18:57:31.230 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+18:57:31.980 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+18:57:32.186 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+18:57:32.360 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+18:57:32.546 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+18:57:32.726 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+18:57:33.126 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+18:57:33.292 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+18:57:33.693 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+18:57:43.786 [main] ERROR testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:54)oggger - Test has failed
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: MicrosoftEdge=137.0.3296.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [45ff84c50936364252eca82bda03cdde, findElement {value=//h1[normalize-space()='Your Account Has Been Created!'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 137.0.3296.93, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:58207}, msedge: {msedgedriverVersion: 137.0.3296.93 (114b4a913acd..., userDataDir: C:\Users\gajendra.gautam\Ap...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58207/devtoo..., se:cdpVersion: 137.0.3296.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 45ff84c50936364252eca82bda03cdde
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.33.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.33.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.getText(Unknown Source) ~[?:?]
+	at pageObjects.RegisterAccount.verifyConfirmationMsg(RegisterAccount.java:83) ~[test-classes/:?]
+	at testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:50) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+18:57:58.537 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+18:57:58.946 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+18:57:59.706 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+18:58:00.193 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+18:58:00.494 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+18:58:01.057 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+18:58:06.817 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+18:58:08.907 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+18:58:09.150 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+18:58:09.405 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+18:59:22.458 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\test-output\testng-failed.xml] otherwise TestNG may fail or not work as expected.
+18:59:23.075 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\test-output\testng-failed.xml
+
+18:59:37.744 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+18:59:38.864 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+18:59:41.977 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+18:59:42.587 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+18:59:43.020 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+18:59:43.619 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+18:59:44.286 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+18:59:44.925 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+18:59:45.173 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+18:59:45.413 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+18:59:47.457 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+18:59:57.659 [main] ERROR testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:54)oggger - Test has failed
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[normalize-space()='Your Account Has Been Created!']"}
+  (Session info: MicrosoftEdge=137.0.3296.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f7f742ab9f298d62f8f1d6a20b405da1, findElement {using=xpath, value=//h1[normalize-space()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 137.0.3296.93, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:58567}, msedge: {msedgedriverVersion: 137.0.3296.93 (114b4a913acd..., userDataDir: C:\Users\gajendra.gautam\Ap...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58567/devtoo..., se:cdpVersion: 137.0.3296.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f7f742ab9f298d62f8f1d6a20b405da1
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.33.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.33.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy30.getText(Unknown Source) ~[?:?]
+	at pageObjects.RegisterAccount.verifyConfirmationMsg(RegisterAccount.java:83) ~[test-classes/:?]
+	at testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:50) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+17:25:15.382 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml] otherwise TestNG may fail or not work as expected.
+17:25:15.830 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\testng.xml
+
+17:25:25.502 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+17:25:25.703 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+17:25:26.412 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+17:25:26.525 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+17:25:26.625 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+17:25:26.736 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+17:25:26.837 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+17:25:27.045 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+17:25:27.191 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+17:25:27.305 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+17:25:28.242 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+17:25:28.311 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:51)oggger - Tested successfully!
+17:25:38.963 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+17:25:39.097 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+17:25:39.546 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+17:25:39.693 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+17:25:39.796 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+17:25:39.906 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+17:25:45.442 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+17:25:46.659 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+17:25:46.776 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+17:25:47.315 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+17:31:32.273 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: pavanoltraining@gmail.com, expected result: Valid
+17:31:32.647 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:31:33.137 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:31:33.472 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:31:33.650 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:31:34.083 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:31:34.701 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+17:31:34.706 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+17:31:34.721 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: lakshmi@yahoo.com, expected result: Invalid
+17:31:34.886 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:31:35.329 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:31:35.534 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:31:35.717 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:31:35.853 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:31:46.827 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laksh@yahoo.com, expected result: Valid
+17:31:47.630 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:31:51.319 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:32:01.417 [main] ERROR testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:66)oggger - Exception in test: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-email']"}
+  (Session info: MicrosoftEdge=137.0.3296.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2ff3b530406f7a601ce32c3a5e784c5b, findElement {value=//input[@id='input-email'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 137.0.3296.93, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:65072}, msedge: {msedgedriverVersion: 137.0.3296.93 (114b4a913acd..., userDataDir: C:\Users\gajendra.gautam\Ap...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65072/devtoo..., se:cdpVersion: 137.0.3296.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ff3b530406f7a601ce32c3a5e784c5b
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.33.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.33.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy28.sendKeys(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.setEmailId(HomePage.java:42) ~[test-classes/:?]
+	at testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:28) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:155) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:169) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:88) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:137) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.3.jar:3.5.3]
+17:32:01.455 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laks@yahoo.com, expected result: Invalid
+17:32:11.469 [main] ERROR testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:66)oggger - Exception in test: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-user']"}
+  (Session info: MicrosoftEdge=137.0.3296.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2ff3b530406f7a601ce32c3a5e784c5b, findElement {value=//*[@class='fa fa-user'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 137.0.3296.93, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:65072}, msedge: {msedgedriverVersion: 137.0.3296.93 (114b4a913acd..., userDataDir: C:\Users\gajendra.gautam\Ap...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65072/devtoo..., se:cdpVersion: 137.0.3296.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ff3b530406f7a601ce32c3a5e784c5b
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.33.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.33.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy28.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickMyAccount(HomePage.java:34) ~[test-classes/:?]
+	at testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:22) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:155) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:169) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:88) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:137) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.3.jar:3.5.3]
+17:32:11.475 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: abc123@gmail.com/, expected result: Invalid
+17:32:21.532 [main] ERROR testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:66)oggger - Exception in test: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-user']"}
+  (Session info: MicrosoftEdge=137.0.3296.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2ff3b530406f7a601ce32c3a5e784c5b, findElement {value=//*[@class='fa fa-user'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 137.0.3296.93, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:65072}, msedge: {msedgedriverVersion: 137.0.3296.93 (114b4a913acd..., userDataDir: C:\Users\gajendra.gautam\Ap...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65072/devtoo..., se:cdpVersion: 137.0.3296.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ff3b530406f7a601ce32c3a5e784c5b
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.33.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.33.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy28.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickMyAccount(HomePage.java:34) ~[test-classes/:?]
+	at testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:22) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:155) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:169) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:88) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:137) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.3.jar:3.5.3]
+17:32:21.535 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: admin.demo@yahoo.com, expected result: Valid
+17:32:31.581 [main] ERROR testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:66)oggger - Exception in test: 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='fa fa-user']"}
+  (Session info: MicrosoftEdge=137.0.3296.93)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2ff3b530406f7a601ce32c3a5e784c5b, findElement {value=//*[@class='fa fa-user'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 137.0.3296.93, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:65072}, msedge: {msedgedriverVersion: 137.0.3296.93 (114b4a913acd..., userDataDir: C:\Users\gajendra.gautam\Ap...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65072/devtoo..., se:cdpVersion: 137.0.3296.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ff3b530406f7a601ce32c3a5e784c5b
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:544) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:361) ~[selenium-remote-driver-4.33.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.33.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.33.0.jar:?]
+	at jdk.proxy2/jdk.proxy2.$Proxy28.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.clickMyAccount(HomePage.java:34) ~[test-classes/:?]
+	at testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:22) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:155) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:169) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:88) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:137) [surefire-testng-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.3.jar:3.5.3]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.3.jar:3.5.3]
+17:32:40.043 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+17:32:40.223 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+17:32:41.468 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+17:32:41.629 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+17:32:41.747 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+17:32:41.898 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+17:32:47.983 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+17:32:49.024 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+17:32:49.175 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+17:32:49.358 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+17:36:59.299 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: pavanoltraining@gmail.com, expected result: Valid
+17:36:59.570 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:37:00.131 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:37:00.315 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:37:00.478 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:37:01.963 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:37:02.465 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+17:37:02.471 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+17:37:02.482 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: lakshmi@yahoo.com, expected result: Invalid
+17:37:02.589 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:37:02.939 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:37:03.037 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:37:03.112 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:37:03.201 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:37:13.434 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laksh@yahoo.com, expected result: Valid
+17:37:13.562 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:37:14.392 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:37:14.495 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:37:14.610 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:37:14.917 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:37:24.977 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laks@yahoo.com, expected result: Invalid
+17:37:25.106 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:37:25.890 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:37:25.991 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:37:26.076 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:37:26.203 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:37:36.515 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: abc123@gmail.com/, expected result: Invalid
+17:37:36.667 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:37:37.453 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:37:37.561 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:37:37.659 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:37:37.989 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:37:48.049 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: admin.demo@yahoo.com, expected result: Valid
+17:37:48.162 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:37:48.933 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:37:49.085 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:37:49.213 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:37:49.396 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:37:50.212 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+17:37:50.213 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+17:38:01.249 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+17:38:01.425 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+17:38:02.084 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+17:38:02.256 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+17:38:02.368 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+17:38:02.512 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+17:38:07.944 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+17:38:08.741 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+17:38:08.845 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+17:38:09.109 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+17:49:58.422 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: pavanoltraining@gmail.com, expected result: Valid
+17:49:58.614 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:49:59.200 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:49:59.344 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:49:59.455 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:49:59.583 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:50:00.591 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+17:50:00.599 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+17:50:00.614 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: lakshmi@yahoo.com, expected result: Invalid
+17:50:01.025 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:50:01.683 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:50:02.009 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:50:02.120 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:50:02.225 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:50:12.561 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laksh@yahoo.com, expected result: Valid
+17:50:12.676 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:50:13.458 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:50:13.561 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:50:13.739 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:50:13.839 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:50:24.050 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laks@yahoo.com, expected result: Invalid
+17:50:24.476 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:50:25.320 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:50:25.425 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:50:25.517 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:50:25.623 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:50:35.885 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: abc123@gmail.com/, expected result: Invalid
+17:50:36.022 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:50:36.757 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:50:36.855 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:50:36.949 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:50:37.074 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:50:47.341 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: admin.demo@yahoo.com, expected result: Valid
+17:50:47.475 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:50:48.224 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:50:48.399 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:50:48.538 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:50:48.990 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:50:49.535 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+17:50:49.536 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+17:51:00.117 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+17:51:00.353 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+17:51:01.041 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+17:51:01.290 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+17:51:01.434 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+17:51:01.564 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+17:51:07.181 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+17:51:08.064 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+17:51:08.202 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+17:51:08.467 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+17:58:34.610 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: pavanoltraining@gmail.com, expected result: Valid
+17:58:34.940 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:58:35.506 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:58:35.887 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:58:36.102 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:58:36.798 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:58:37.340 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+17:58:37.346 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+17:58:37.358 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: lakshmi@yahoo.com, expected result: Invalid
+17:58:37.449 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:58:37.778 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:58:37.891 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:58:37.973 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:58:38.075 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:58:48.280 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laksh@yahoo.com, expected result: Valid
+17:58:48.405 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:58:49.106 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:58:49.207 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:58:49.293 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:58:49.375 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:58:59.447 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: laks@yahoo.com, expected result: Invalid
+17:58:59.554 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:59:00.869 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:59:00.980 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:59:01.062 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:59:01.176 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:59:11.239 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: abc123@gmail.com/, expected result: Invalid
+17:59:11.367 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:59:12.167 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:59:12.270 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:59:12.358 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:59:12.472 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:59:22.527 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:16)oggger - Test started with email: admin.demo@yahoo.com, expected result: Valid
+17:59:22.672 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:23)oggger - Clicked on My Account
+17:59:23.452 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:26)oggger - Clicked on login button
+17:59:23.571 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:29)oggger - Entered email
+17:59:23.665 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:32)oggger - Entered password
+17:59:24.026 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:35)oggger - Clicked login button
+17:59:24.512 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:45)oggger - Logged out after successful login
+17:59:24.513 [main] INFO  testCase.TC_02_LoginData_Test.Login(TC_02_LoginData_Test.java:70)oggger - Test completed
+17:59:35.816 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+17:59:36.025 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+17:59:36.465 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+17:59:36.618 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+17:59:36.753 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+17:59:37.079 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+17:59:42.585 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+17:59:43.591 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+17:59:43.690 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+17:59:43.836 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+18:02:39.927 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\gajendra.gautam\OneDrive - Infosys Limited\AutomationFreamWork\OpenCart\masterTestNG.xml] otherwise TestNG may fail or not work as expected.
+18:02:50.889 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+18:02:50.981 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+18:02:51.364 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+18:02:51.502 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+18:02:51.604 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+18:02:51.724 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+18:02:57.095 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+18:02:58.031 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+18:02:58.137 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+18:02:58.307 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+23:19:18.062 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+23:19:18.067 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+23:19:18.069 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:19:18.069 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:19:18.070 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+23:19:18.070 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:19:18.072 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:19:18.072 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:19:18.076 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+23:19:18.088 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+23:19:18.089 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:19:18.090 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:19:18.091 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:19:18.091 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:19:18.092 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:19:18.092 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:19:18.095 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:19:18.095 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:19:18.096 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:19:18.096 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:19:18.098 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:19:18.098 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:19:18.098 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:19:18.098 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:19:18.099 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:19:18.100 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:19:18.102 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:19:18.102 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:19:18.102 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:19:18.102 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:19:18.111 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Gajendra\AppData\Local\Temp\testng-eclipse--57132986\testng-customsuite.xml
+
+23:19:18.130 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+23:19:26.095 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:12)oggger - --> Test has been started <--
+23:19:26.166 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:18)oggger - --clicked on my account--
+23:19:26.657 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:21)oggger - --clicked on account registration button--
+23:19:26.745 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:24)oggger - first name added
+23:19:26.797 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:27)oggger - last name added
+23:19:26.860 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:30)oggger - email created
+23:19:26.917 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:34)oggger - password created
+23:19:27.022 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:38)oggger - phone added
+23:19:27.081 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:41)oggger - subscription button clicked
+23:19:27.130 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:44)oggger - privacy policy checkbox clicked
+23:19:27.557 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:47)oggger - continue button clicked
+23:19:27.605 [main] INFO  testCase.TC_01_AC_Creation.mainTest(TC_01_AC_Creation.java:51)oggger - Tested successfully!
+23:19:28.931 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@62891fc8: 43 ms
+23:19:28.932 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@10bd9df0: 1 ms
+23:19:28.939 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@3effd4f3: 6 ms
+23:19:28.945 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7afbf561: 5 ms
+23:19:28.950 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@771cbb1a: 3 ms
+23:19:28.950 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2416498e: 0 ms
+09:45:24.232 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Gajendra\eclipse-workspace\Demo\masterTestNG.xml] otherwise TestNG may fail or not work as expected.
+09:45:31.776 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+09:45:31.922 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+09:45:32.243 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+09:45:32.386 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+09:45:32.471 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+09:45:32.710 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+09:45:38.057 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+09:45:38.530 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+09:45:38.640 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+09:45:38.783 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+10:07:59.749 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Gajendra\eclipse-workspace\Demo\masterTestNG.xml] otherwise TestNG may fail or not work as expected.
+10:08:03.558 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+10:08:03.647 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+10:08:03.866 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+10:08:03.957 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+10:08:04.008 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+10:08:04.067 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+10:08:09.346 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+10:08:09.827 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+10:08:09.899 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+10:08:10.013 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+10:14:45.546 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Gajendra\eclipse-workspace\Demo\masterTestNG.xml] otherwise TestNG may fail or not work as expected.
+10:14:47.931 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+10:14:48.020 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+10:14:48.261 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+10:14:48.350 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+10:14:48.411 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+10:14:48.614 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+10:14:53.853 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+10:14:54.357 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+10:14:54.415 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+10:14:54.520 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
+10:15:48.424 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Gajendra\eclipse-workspace\Demo\masterTestNG.xml] otherwise TestNG may fail or not work as expected.
+10:15:50.964 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:17)oggger - ***Test Started**
+10:15:51.031 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:19)oggger - Clicked on My Account
+10:15:51.248 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:21)oggger - Clicked on login button
+10:15:51.333 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:23)oggger - Entered email
+10:15:51.387 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:25)oggger - Entered password
+10:15:51.572 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:27)oggger - Clicked login button
+10:15:56.893 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:30)oggger - Clicked tablet button
+10:15:57.333 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:32)oggger - Clicked samsung tab button
+10:15:57.385 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:34)oggger - Clicked add to cart button
+10:15:57.490 [main] INFO  testCase.TC_03_ShopingCart_Test.shoppingCartTest(TC_03_ShopingCart_Test.java:36)oggger - ***Test Completed**
